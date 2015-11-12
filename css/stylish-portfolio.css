@@ -166,6 +166,23 @@ hr.small {
 	color: #fff;
 	text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
+/* Logo */
+.logo{
+	width:480px;
+	height:90px:
+}
+
+@media(max-width:768px) {
+	.logo{
+		width:320px;
+		height:60px:
+	}
+}
+
+
+
+
+
 
 /* About */
 
